@@ -1,1 +1,2 @@
-new (dev) *
+new (dev)
+www
