@@ -1,1 +1,1 @@
-new (dev)
+new (dev) *
