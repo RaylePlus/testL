@@ -1,2 +1,2 @@
 # TestX
-Learn Git
+Learn git by Rayle
